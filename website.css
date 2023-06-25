@@ -1,0 +1,73 @@
+body{
+    background-color:black;
+}
+#heading{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:royalblue;
+}
+#intro{
+    color:greenyellow;
+    font-style: italic;
+    font-family:"kablammo","consolas";
+}
+#skills{
+    color: red;
+    font-size:x-large;
+    font-family: sans-serif;
+}
+.footer{
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: aliceblue;
+    height: 25px;
+    width: 1550px;
+}
+.Python{
+    background-color:yellow;
+    color: tomato;
+    font-size: 15px;
+    }
+.Python:hover{
+    background-color: tomato;
+    color: yellow;
+}
+.MySql{
+    background-color:blue;
+    color: white;
+    font-size: 15px;
+    }
+.MySql:hover{
+    background-color: white;
+    color: blue;
+}
+.HTML{
+    background-color:orangered;
+    color: white;
+    font-size: 15px;
+    }
+.HTML:hover{
+    background-color: white;
+    color:orangered;
+}
+.CSS{
+    background-color:darkblue;
+    color: white;
+    font-size: 15px;
+    }
+.CSS:hover{
+    background-color: white;
+    color:lightseagreen;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } /* For making something center 🙏*/
